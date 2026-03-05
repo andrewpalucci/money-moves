@@ -3,9 +3,15 @@ In an interview I had last week, I was asked "How would you scale the CNN you bu
 
 The goal is to apply the stuff I'm learning about building software systems in ECSE321 - Intro to Software Engineering to make something cool and useful for myself. 
 
+## Executed Items: 
+
+
 ## Plan: 
 1. Requirements
-2. **Backend**
+   - Functional Requirements
+   - Non-functional requirements
+   - Use case diagrams
+3. **Backend**
   - Setup (Database, Dependencies etc.)
   -  UML Model
   -   Repository Layer
