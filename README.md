@@ -17,6 +17,6 @@ The goal is to apply the stuff I'm learning about building software systems in E
 3. **Frontend**
    - Idk we'll see what we do in class
   
-4. **Switch from using LLMs to a custom ML Model**
+5. **Switch from using LLMs to a custom ML Model**
 
-5. **Get rich by having insane personal finances**
+6. **Get rich by having insane personal finances**
